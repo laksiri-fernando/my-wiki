@@ -1,3 +1,5 @@
+# Harness Engineering
+
 **Harness Engineering** is the engineering discipline focused on building the environment and deterministic systems that surround an AI model rather than the model itself. It is based on the architectural formula that an **AI Agent = Model + Harness**.
 
 While the AI model is responsible for reasoning and making decisions, the **harness is the scaffolding** that executes those decisions, enforces constraints, connects the model to external tools, and supervises the agent's actions to prevent "execution drift".

@@ -1,3 +1,5 @@
+# Harness Engineering and Develop a Professional Agentic Systems
+
 To develop a professional agentic system, you must focus on the **[[Harness Engineering]]**—the deterministic environment and scaffolding that surrounds the AI model. While the model provides the "CPU" or reasoning power, the harness acts as the **operating system** that manages state, enforces constraints, and connects the model to the world.
 
 Building a mature harness involves implementing the following architectural layers and principles:
